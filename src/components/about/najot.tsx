@@ -20,8 +20,8 @@ const Najot = () => {
   </div>
  
     <div className='flex flex-col max-w-[600px] text-center justify-center items-center' >
-    <h2 className="mt-3 text-4xl transition ig:text-base duration-300  ease-in-out font-bold mm:text-3xl   mb-4">NAJOT TA'LIM</h2>
-    <p className="mt-3 xl:text-sm ig:text-base mm:text-xs  text-lg transition duration-300 ease-in-out sm:text-base sm:max-w-[450px] ">'Najot Ta'lim' Education is an advanced training center in Uzbekistan that has achieved high results in a short period of time and teaches modern professions. A place that will teach you the most necessary modern professions and knowledge. Here, in addition to foreign languages, you can become an expert in modern professions such as media, marketing and programming. </p>
+    <h2 className="mt-3 text-4xl transition ig:text-base duration-300  ease-in-out font-bold mm:text-3xl   mb-4">NAJOT TA`LIM</h2>
+    <p className="mt-3 xl:text-sm ig:text-base mm:text-xs  text-lg transition duration-300 ease-in-out sm:text-base sm:max-w-[450px] ">Najot Ta`lim Education is an advanced training center in Uzbekistan that has achieved high results in a short period of time and teaches modern professions. A place that will teach you the most necessary modern professions and knowledge. Here, in addition to foreign languages, you can become an expert in modern professions such as media, marketing and programming. </p>
 <button className='text-lg mt-8 w-56 transition ig:text-base rounded-full duration-300 focus:scale-110 hover:scale-110 active:scale-105 ease-in-out bg-[#46C2CB] outline-none border-2 hover:bg-[#3ca4ac] font-bold py-3 px-4 sm:w-40 sm:font-medium sm:p-1 dark:bg-gradient-to-r from-indigo-900 via-sky-900 to-indigo-900 dark:hover:bg-sky-900 '>
  <a href="https://najottalim.uz/">More information...</a>
 </button>

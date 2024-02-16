@@ -40,7 +40,7 @@ const Projects = () => {
             <p className='text-lg font-bold'>
               This project is made with API, and you can find the quirk you want by using the search button here
             </p>
-            <p className='text-lg font-bold'>["React", "HTML", "JavaScript", "Tailwind", "Vite"]</p>
+            <p className='text-lg font-bold'>[`React`, `HTML`, `JavaScript`, `Tailwind`, `Vite`]</p>
           </div>
         </motion.div>
       </Link>
@@ -56,7 +56,7 @@ const Projects = () => {
             <p className='text-lg font-bold'>
               This is an Admin panel, but there is no API here, it is a static website
             </p>
-            <p className='text-lg font-bold'>["React", "Javascript", "Vite", "Tailwind", "Html", "MUI"]
+            <p className='text-lg font-bold'>[ `React``, `Javascript`, `Vite`, `Tailwind`, `Html`, `MUI`]
             </p>
           </div>
 
@@ -79,9 +79,9 @@ const Projects = () => {
           <div className="md:hidden gap-y-7 tg:hidden tg:gap-y-3 flex flex-col justify-center items-center text-center w-[600px] ml-12 tg:ml-0 ">
             <h3 className="font-bold text-2xl">Portfolio</h3>
             <p className='text-lg font-bold'>
-              "Many animations have been added to the portfolio and there is also a dark mode",
+              `Many animations have been added to the portfolio and there is also a dark mode`,
             </p>
-            <p className='text-lg font-bold'>["React", "Next.js", "Typescript", "Tailwind", "Framer Motion", "Javascript"]
+            <p className='text-lg font-bold'>[`React`, `Next.js`, `Typescript`, `Tailwind`, `Framer Motion`, `Javascript`]
             </p>
           </div>
         </motion.div>
@@ -97,7 +97,7 @@ whileTap={{ scale: 0.9 }}
             <p className='text-lg font-bold'>
               This is a Flags page, there are all flags, you can find a lot of flags
             </p>
-            <p className='text-lg font-bold'>["HTMl", "CSS", "Javascript"]</p>
+            <p className='text-lg font-bold'>[`HTMl`, `CSS`, `Javascript`]</p>
           </div>
 
           <div className="">
